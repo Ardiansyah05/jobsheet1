@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T04:36:50.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4_p3UhUycMM1rIPZjF-_" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-23T04:37:19.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="oFyglteeZxpxTWCe5asn" version="22.1.3" type="github">
   <diagram name="Page-1" id="AKFudhWzwGmkqaso0WVK">
     <mxGraphModel dx="1600" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,10 +63,10 @@
         <mxCell id="sMe3LOdqX09_mYayKkUZ-22" value="Mendapatkan&lt;br&gt;bukti&lt;br&gt;pembayaran" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="390" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sMe3LOdqX09_mYayKkUZ-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sMe3LOdqX09_mYayKkUZ-22" target="sMe3LOdqX09_mYayKkUZ-12">
+        <mxCell id="sMe3LOdqX09_mYayKkUZ-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sMe3LOdqX09_mYayKkUZ-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="440" as="sourcePoint" />
-            <mxPoint x="480" y="390" as="targetPoint" />
+            <mxPoint x="600" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sMe3LOdqX09_mYayKkUZ-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">

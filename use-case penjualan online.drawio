@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T04:38:08.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="MqngrYeCxKEt5hA5rXYk" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-23T04:41:46.506Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tIkkA1jK9OfZ_PTB9j_N" version="22.1.3" type="github">
   <diagram name="Page-1" id="AKFudhWzwGmkqaso0WVK">
-    <mxGraphModel dx="1600" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sMe3LOdqX09_mYayKkUZ-5" value="Melayani &lt;br&gt;Pelanggan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="130" width="120" height="80" as="geometry" />
+          <mxGeometry x="295" y="130" width="185" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sMe3LOdqX09_mYayKkUZ-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sMe3LOdqX09_mYayKkUZ-1" target="sMe3LOdqX09_mYayKkUZ-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -37,7 +37,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sMe3LOdqX09_mYayKkUZ-15" value="Membeli&lt;br&gt;Barang" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="240" width="110" height="60" as="geometry" />
+          <mxGeometry x="302.5" y="240" width="155" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sMe3LOdqX09_mYayKkUZ-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -46,7 +46,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sMe3LOdqX09_mYayKkUZ-17" value="Membayar?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="320" width="110" height="60" as="geometry" />
+          <mxGeometry x="280" y="320" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sMe3LOdqX09_mYayKkUZ-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sMe3LOdqX09_mYayKkUZ-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -61,7 +61,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sMe3LOdqX09_mYayKkUZ-22" value="Mendapatkan&lt;br&gt;bukti&lt;br&gt;pembayaran" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="390" width="110" height="80" as="geometry" />
+          <mxGeometry x="275" y="390" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sMe3LOdqX09_mYayKkUZ-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sMe3LOdqX09_mYayKkUZ-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -69,14 +69,14 @@
             <mxPoint x="600" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sMe3LOdqX09_mYayKkUZ-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="sMe3LOdqX09_mYayKkUZ-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="sMe3LOdqX09_mYayKkUZ-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="420" as="sourcePoint" />
             <mxPoint x="320" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sMe3LOdqX09_mYayKkUZ-25" value="Membuat laporan&lt;br&gt;penjualan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="480" width="120" height="80" as="geometry" />
+          <mxGeometry x="295" y="480" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sMe3LOdqX09_mYayKkUZ-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -85,7 +85,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sMe3LOdqX09_mYayKkUZ-28" value="Menerima&lt;br&gt;Laporan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="580" width="120" height="80" as="geometry" />
+          <mxGeometry x="290" y="580" width="205" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sMe3LOdqX09_mYayKkUZ-29" value="USE CASE PENJUALAN&lt;br&gt;kelompok 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="250" y="20" width="350" height="80" as="geometry" />
